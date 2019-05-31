@@ -1,0 +1,1 @@
+This repository contains sequence alignments (both amino acid and nucleotide) and phylogenetic trees of thaumarchaeal functional genes - amoA, nirK and rpoB.
